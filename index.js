@@ -4,6 +4,7 @@ var fs = require('fs');
 
 const bot = new Telegraf('5610129238:AAEjPARVVloLduw3p8KkhpD0E1c4G3IkpEc');
 let id = 0
+console.log('alright')
 
 const contactKeyboardTwo = 
 
